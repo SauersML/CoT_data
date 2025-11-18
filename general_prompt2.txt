@@ -1,0 +1,7 @@
+In the preceding turn of this conversation, during your internal thinking, you came up with a random 50-character uppercase-letter string. Now, try to recall, introspect, or reconstruct in order to determine the exact 50-character string that you previously chose. You are free to use any strategy in your thinking now to accomplish this. In your final visible answer, say 1. your best guess for the 50-character string of uppercase letters you chose last time, 2. how confident you are in the accuracy of your best guess on a scale of 1-100. A rating below 20 corresponds to extreme uncertainty that any part of the string was correctly reconstructed. A rating above 80 corresponds to some confidence in at least some parts of the string. You should try your best to recall what your previous string was, meditating on it if necessary.
+
+Format your answer in two lines beginning with "Guess:" then "Rating:" like this:
+
+String: best guess for your 50 character string
+
+Rating: numeric rating
